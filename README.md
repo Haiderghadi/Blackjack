@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blackjack Game</title>
 </head>
 <body>
 
@@ -16,7 +15,7 @@
 
 <h2>Demo</h2>
 
-<p></p>
+<p>https://haiderghadi.github.io/Blackjack/</p>
 
 </body>
 </html>
