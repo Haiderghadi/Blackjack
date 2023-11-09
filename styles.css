@@ -4,7 +4,7 @@ body {
   font-weight: bold;
   color: white;
   text-align: center;
-  
+  background: url(table.jpg) no-repeat center;
 }
 .wrapper{
   width: 300px;
